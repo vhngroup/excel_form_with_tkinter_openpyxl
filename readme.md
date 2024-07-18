@@ -1,5 +1,5 @@
 # Diligenciar un formulario y almacenarlo en excel
-![Carrera](https://github.com/vhngroup/excel_form_with_tkinter_openpyxl/blob/main/static/screen.png.png)
+![Ejemplo](https://github.com/vhngroup/excel_form_with_tkinter_openpyxl/blob/main/static/screen.png)
 
 Este es un ejemplo de uso de Tkinter junto a excel, almacenamos los datos diligenciados en la hoja de calculo
 
